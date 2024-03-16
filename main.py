@@ -81,7 +81,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m Laskar M3\n
+	print (''' \033[92m Tn. Laskar ID\n
 	usage : python3 main.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
